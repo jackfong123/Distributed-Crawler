@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#-----
 import os
 os.system('sudo pt-get install python-pip')
 os.system('sudo pip install mysql-python')
